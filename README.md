@@ -17,7 +17,7 @@
  
 <div> 
   <a><h3><i>Redes Sociais</i></h3></a>
-  <p><a href="https://www.instagram.com/rbrito_22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/ricardo-brito-303912201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/ricardobrito22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a></p>
   
